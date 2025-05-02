@@ -1,3 +1,6 @@
+#dependencies 
+    implementation ("androidx.navigation:navigation-compose:2.7.0") // ou dernière version stable
+
 # NavigationCompose
 using Sample uploaded in this repository , implement the screen below  
 <img src="https://github.com/mouniraz/NavigationCompose/blob/main/TPnavEcran1.png" width="200" height="400" /> 
