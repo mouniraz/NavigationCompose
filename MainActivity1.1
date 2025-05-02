@@ -53,7 +53,7 @@ fun MyApp()
 NavHost(navController = navController, startDestination = "MyApp" )
 {
     composable(route="myApp"){FirstCompose(navController)}
-    composable(route="Second/{p1}/{p2}", arguments = listOf(navArgument("p1")
+    composable(route="Second/{p1}", arguments = listOf(navArgument("p1")
     {type= NavType.StringType
     defaultValue=""
         nullable=true
