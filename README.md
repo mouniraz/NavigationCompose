@@ -1,5 +1,5 @@
-#dependencies 
-    implementation ("androidx.navigation:navigation-compose:2.7.0") // ou dernière version stable
+# dependencies 
+implementation ("androidx.navigation:navigation-compose:2.7.0") // ou dernière version stable
 
 # NavigationCompose
 using Sample uploaded in this repository , implement the screen below  
